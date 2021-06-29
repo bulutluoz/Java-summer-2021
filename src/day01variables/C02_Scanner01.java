@@ -25,6 +25,8 @@ public class C02_Scanner01 {
 		
 		System.out.println("Girdiginiz isim : " + kullanicininIsmi);
 		
+		scan.close();
+		
 		
 		
 	

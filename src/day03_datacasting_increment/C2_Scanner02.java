@@ -15,6 +15,8 @@ public class C2_Scanner02 {
 		char ilkHarf=scan.next().charAt(0);
 		
 		System.out.println("girdiginiz kelimenin ilk harfi : " + ilkHarf);
+		
+		scan.close();
 
 	}
 
