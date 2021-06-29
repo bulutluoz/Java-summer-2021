@@ -1,4 +1,4 @@
-package day02VariablesScanner;
+package day02_variables_scanner;
 
 import java.util.Scanner;
 
@@ -23,6 +23,8 @@ public class C02_Scanner {
 		int sayi2 = scan.nextInt();
 		
 		System.out.println("Girdiginiz sayilarin toplami : " + (sayi1+sayi2));
+		
+		scan.close();
 
 	}
 

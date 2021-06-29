@@ -1,4 +1,4 @@
-package day02VariablesScanner;
+package day02_variables_scanner;
 
 import java.util.Scanner;
 
@@ -26,7 +26,7 @@ public class C03_Scanner02 {
 		
 		
 		
-		
+		scan.close();
 
 
 	}

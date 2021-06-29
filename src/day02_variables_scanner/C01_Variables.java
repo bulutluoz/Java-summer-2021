@@ -1,4 +1,4 @@
-package day02VariablesScanner;
+package day02_variables_scanner;
 
 public class C01_Variables {
 
