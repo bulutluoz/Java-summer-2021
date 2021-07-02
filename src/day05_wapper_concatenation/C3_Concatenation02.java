@@ -11,7 +11,13 @@ public class C3_Concatenation02 {
 		
 		System.out.println(sayi+str+ilkHarf); // 7Javaaa
 		System.out.println(sayi+ilkHarf+str); // 
+		
+		// 7a yazdirin
+		
+		System.out.println(sayi+ilkHarf); // 104  
 
+		
+		System.out.println(""+sayi+ilkHarf); // 
 	}
 
 }
