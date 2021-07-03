@@ -23,7 +23,7 @@ public class C5_IfStatements04 {
 			System.out.println("girdiginiz dikdortgen bir kare degil");
 		}
 		
-		
+		scan.close();
 		
 		
 	}

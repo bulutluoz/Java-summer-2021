@@ -33,6 +33,7 @@ public class C4_IfStatements03 {
 			System.out.println("Lutfen gecerli bir harf seciniz");
 		}
 		
+		scan.close();
 		
 	}
 
