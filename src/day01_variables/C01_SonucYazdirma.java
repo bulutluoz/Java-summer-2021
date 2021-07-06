@@ -1,4 +1,4 @@
-package day01variables;
+package day01_variables;
 
 public class C01_SonucYazdirma {
 

@@ -17,7 +17,7 @@ public class C7_NestedTernary02 {
 		double sayi2=scan.nextDouble();
 		
 		System.out.println(sayi1<=0 || sayi2<=0 ? "Lutfen gecerli uzunluk giriniz" : 
-			sayi1==sayi2 ? "Kare" : "Kare degil") ;
+			(sayi1==sayi2 ? "Kare" : "Kare degil")  ) ;
 
 		scan.close();
 	}
