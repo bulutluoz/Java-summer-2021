@@ -57,7 +57,7 @@ public class C3_StringManipulation03 {
 		// 3.yol
 		System.out.println(cumle.indexOf("java") == -1 ? "Daha cok calisman lazim." : "Aferin.");
 		
-
+		scan.close();
 		
 	}
 
