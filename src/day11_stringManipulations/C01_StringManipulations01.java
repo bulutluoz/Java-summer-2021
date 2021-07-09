@@ -35,13 +35,7 @@ public class C01_StringManipulations01 {
 			System.out.println("kelime cumlede kullanilmamis");
 		}
 		
-		
-		
-		
-		
-		
-		
-		
+		scan.close();
 
 	}
 

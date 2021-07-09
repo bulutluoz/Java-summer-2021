@@ -22,7 +22,7 @@ public class C02_StringManipulations02 {
 			System.out.println("Lutfen gmail mail adresinizi giriniz..");
 		}
 		
-		
+		scan.close();
 
 	}
 

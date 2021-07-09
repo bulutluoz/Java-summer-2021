@@ -27,7 +27,7 @@ public class C03_StringManipulations03 {
 			System.out.println("Cumle kucuk yada buyuk kelimesi icermiyor");
 		}
 		
-		
+		scan.close();
 		
 
 	}

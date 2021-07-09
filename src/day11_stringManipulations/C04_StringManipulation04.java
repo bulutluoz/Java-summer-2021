@@ -20,11 +20,13 @@ public class C04_StringManipulation04 {
 		System.out.println(kkNo.replaceAll("\\W", "#")); // harf veya rakamlarin disindaki hersey
 		System.out.println(kkNo.replaceAll("\\d", "0")); // digit(rakamlar)in hepsi
 		System.out.println(kkNo.replaceAll("\\D", "a")); // digit(rakamlar)in disindaki hersey
-		
+		// syso icinde yapilan manipulation'lar asil String'i degistirmez
 		System.out.println(kkNo);
 		
-		kkNo = "1234 5698 1278 5687";
+		kkNo = "1234 5698 1278 5687"; // atama yapinca kalici olarak degistirmis oluruz
 		System.out.println(kkNo);
+		
+		
 
 		
 	}
