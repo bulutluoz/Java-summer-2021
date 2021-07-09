@@ -39,6 +39,7 @@ public class C02_StringManipulation02 {
 							+"\nkart no : " + kkNoDuzenlenmis);
 		
 
+		scan.close();
 	}
 
 }
