@@ -7,13 +7,13 @@ public class C1_RelationalOperators {
 		
 		System.out.println(15*3==40); // false
 		
-		System.out.println(15-3==12); // true
+		//System.out.println(15-3==12); // true
 		
-		boolean esitMi= 24/2==12;
+		//boolean esitMi= 24/2==12;
 		
 		
 		
-		System.out.println(esitMi);
+		//System.out.println(esitMi);
 		
 		
 		System.out.println(  5+2>8   ||   9<6   ); // False

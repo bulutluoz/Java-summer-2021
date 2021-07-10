@@ -2,9 +2,10 @@ package day05_wapper_concatenation;
 
 public class C1_WrapperClass {
 
+	@SuppressWarnings("static-access")
 	public static void main(String[] args) {
 		String isim = "Mehmet";
-		int sayi = 10;
+		//int sayi = 10;
 
 		System.out.println(isim.charAt(2)); // h
 		// isim. dedigimizde bircok method listeleniyor, cunku isim variable'inin data

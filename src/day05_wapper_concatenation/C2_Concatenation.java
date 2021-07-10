@@ -33,7 +33,7 @@ public class C2_Concatenation {
 		
 		// int'i String'e cevirmek icin method'a ihtiyac yok, ama istersek kullanabiliriz
 		
-		String intdanCevrilen= ""+sayi1; // bu yontem method kullanmadan int'i String'e cevirir
+		//String intdanCevrilen= ""+sayi1; // bu yontem method kullanmadan int'i String'e cevirir
 		
 		
 		
