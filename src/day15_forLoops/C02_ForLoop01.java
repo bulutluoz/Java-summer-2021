@@ -49,13 +49,15 @@ public class C02_ForLoop01 {
 		}
 		*/
 		
+		// eger baslangic degeri kosulu saglamiyorsa
+		// loop body hic calismadan, loop'un sonuna gider
+		// yani loop islevsiz olur
 		
 		for (int i = 10; i < 0; i++) {
 			System.out.println(i + " ");
 		}
 		
 		System.out.println("son for loop'un sonrasi");
-		
 		
 
 	}
