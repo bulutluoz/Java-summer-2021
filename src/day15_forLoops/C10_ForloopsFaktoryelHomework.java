@@ -20,6 +20,7 @@ public class C10_ForloopsFaktoryelHomework {
 			}
 		}
 		System.out.println("="+faktoriyel);
+		scan.close();
 	}
 
 }

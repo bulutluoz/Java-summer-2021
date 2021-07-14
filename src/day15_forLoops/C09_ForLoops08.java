@@ -27,7 +27,7 @@ public class C09_ForLoops08 {
 		System.out.println("girdiginiz sayinin faktoryeli : " + faktoryel);
 		
 		// kullanici 5 girdiyse bu islemin sonucunda konsolda 5!=1*2*3*4*5 = 120 yazdiralim
-		
+		scan.close();
 	}
 
 }

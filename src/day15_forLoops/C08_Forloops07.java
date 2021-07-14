@@ -29,7 +29,7 @@ public class C08_Forloops07 {
 		
 		
 		
-		
+		scan.close();
 		
 	}
 

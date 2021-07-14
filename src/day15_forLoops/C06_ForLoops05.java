@@ -1,6 +1,6 @@
 package day15_forLoops;
 
-import java.util.Iterator;
+
 import java.util.Scanner;
 
 public class C06_ForLoops05 {
@@ -34,7 +34,7 @@ public class C06_ForLoops05 {
 			}
 			
 		}
-
+		scan.close();
 	}
 
 }

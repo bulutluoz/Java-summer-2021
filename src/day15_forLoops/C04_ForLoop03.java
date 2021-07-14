@@ -22,7 +22,7 @@ public class C04_ForLoop03 {
 				System.out.print(i + " ");
 			}
 		}
-
+		scan.close();
 	}
 
 }

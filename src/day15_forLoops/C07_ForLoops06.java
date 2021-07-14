@@ -1,6 +1,6 @@
 package day15_forLoops;
 
-import java.util.Iterator;
+
 import java.util.Scanner;
 
 public class C07_ForLoops06 {
@@ -25,7 +25,7 @@ public class C07_ForLoops06 {
 		for (int i = kelime.length()-1; i >= 0; i--) {
 			System.out.print(kelime.substring(i,i+1));
 		}
-		
+		scan.close();
 	}
 
 }
