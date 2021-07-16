@@ -11,9 +11,9 @@ public class C08_NestedForLoopsHomework {
         @SuppressWarnings("unused")
 		int rakam = scan.nextInt();
         
-       // tayfurMethodu(rakam);
-       // onurMethodu(rakam);
-        gunterMethodu(rakam); 
+       tayfurMethodu(rakam);
+       onurMethodu(rakam);
+       gunterMethodu(rakam); 
         
         
         scan.close();
