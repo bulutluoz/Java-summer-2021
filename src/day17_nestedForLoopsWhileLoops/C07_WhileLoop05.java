@@ -35,7 +35,13 @@ public class C07_WhileLoop05 {
 		// toplamin 200'u gectiginden eminiz
 		System.out.println("toplam " + sayac + " adet sayi girdiniz ve bu sayilarin toplami : " + toplam);
 		
-
+		
+		//*** eger adim sayisi bilinmiyor veya ongorulemiyorsa 
+		// for loop degil de while loop kullanmak daha mantiklidir.
+		// eger adimlar belli ise for loop kullanmak daha mantikli olabilir
+		// iki fazla satir yazmaktan, 
+		// veya degisimi unutup sonsuz loop'a girmekten kurtulmus oluruz
+		scan.close();
 	}
 
 }
