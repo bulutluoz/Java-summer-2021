@@ -30,14 +30,19 @@ public class C04_Scope01 {
 		for (int i = 0; i < 10; i++) {
 			System.out.print(i+" ");
 			i=10;
+			String isim="Mehmet";
+			System.out.println(isim);
 		}
 		
+		// System.out.println(isim);
 		//System.out.println(i); // scope disinda i yi kullanamayiz
 		
 		//i=10 ; // scope disinda i yi kullanamayiz
 		
 		
 		int sayi;
+		sayi=10;
+		System.out.println(sayi);
 		
 		// sayi++; 
 		// System.out.println(sayi);

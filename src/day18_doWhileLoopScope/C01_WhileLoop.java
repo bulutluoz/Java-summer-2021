@@ -17,6 +17,7 @@ public class C01_WhileLoop {
 		System.out.println("Lutfen iki pozitif tamsayi giriniz");
 		
 		int sayi1=0;
+		
 		int sayi2=0;
 		
 		while( !(sayi1>0 && sayi2>0)  ) {
