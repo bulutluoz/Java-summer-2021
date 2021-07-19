@@ -25,7 +25,7 @@ public class C02_Arrays02 {
 		
 		
 		
-		arr = new int[6];
+		arr = new int[6];// bu ekleme yapmaz,deger olarak 6 elemntlik yeni bir array atar
 		
 		System.out.print(Arrays.toString(arr)); // [0, 0, 0, 0, 0, 0]
 		
