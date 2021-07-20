@@ -1,7 +1,7 @@
 package day20_arrays;
 
 import java.util.Arrays;
-import java.util.Iterator;
+
 
 public class C01_Arrays01 {
 
