@@ -15,9 +15,12 @@ public class C03_List03 {
 		isimler.set(1, "Fatma");
 		System.out.println(isimler);
 		
-		System.out.println(isimler.set(2, "Mehmet")); // 
+		System.out.println(isimler.set(2, "Mehmet")); // Zeki
+														// delil olarak eski elementi getirir
 
 		System.out.println(isimler);
+		
+		
 	}
 
 }
