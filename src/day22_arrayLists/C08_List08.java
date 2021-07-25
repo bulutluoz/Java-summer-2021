@@ -19,7 +19,8 @@ public class C08_List08 {
 		System.out.println("list olarak2 " + arrList);
 		
 		
-		arrList.set(0, "Ayse");
+		arrList.set(0, "Ayse"); // biz listeden degistirdik ama
+								// java array'i de degistiriyor
 		
 		System.out.println("list :" + arrList);
 		System.out.println("array : " + Arrays.toString(arr));
