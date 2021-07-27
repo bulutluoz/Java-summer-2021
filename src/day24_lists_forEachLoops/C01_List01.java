@@ -59,7 +59,7 @@ public class C01_List01 {
 			
 		}
 		System.out.println("girdiginiz isimlerden " + count + " tanesi bendeki listede kayitli");
-		
+		scan.close();
 	}
 
 }
