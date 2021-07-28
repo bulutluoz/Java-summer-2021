@@ -28,6 +28,18 @@ public class C01 {
 		this.fiyat=fiyat;
 	}
 	
+	
+	
+
+
+	public C01(int ilanNo, String marka, String model, int yil) {
+		super();
+		this.ilanNo = ilanNo;
+		this.marka = marka;
+		this.model = model;
+		this.yil = yil;
+	}
+
 	// eger parametreli bir constructor olusturursak Java default olani oldurur
 	// bu durumda projemizde aksama olmamasi icin default constructor yerine
 	// parametresiz bir constructor'i biz olusturmaliyiz
