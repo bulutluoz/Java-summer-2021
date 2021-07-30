@@ -31,6 +31,10 @@ public class C03_StaticKeyword {
 		// staticOlmayanMethod(); // main method static oldugu icin static olmayan method'u cagiramayiz
 
 		System.out.println(C01.sayi2); // 0
+		
+		// JAVA RUNTIME PROGRAMDIR
+		// HANGI CLASS DA RUN TUSUNA BASARSANIZ O CLASS CALISIR
+		
 	}
 
 	public static void staticMethod() {
